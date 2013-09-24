@@ -6,6 +6,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	printf("hello git!!\n");
+
 	return 0;
 }
 
